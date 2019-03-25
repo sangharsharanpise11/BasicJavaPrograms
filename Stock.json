@@ -1,0 +1,18 @@
+{"Stock": [
+   {
+	"Stock Name":"Tcs",
+	"Number of Share":13,
+	"Share Price":50
+	},
+	{
+	"Stock Name":"Wipro",
+	"Number of Share":13,
+	"Share Price":50
+	},
+	{
+	"Stock Name":"Accenture",
+	"Number of Share":13,
+	"Share Price":50
+	}
+]
+} 
