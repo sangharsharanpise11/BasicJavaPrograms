@@ -1,4 +1,4 @@
-package CliniqueManagement;
+package Com.BridgeIt.ObjectOrientedPrograms.CliniqueManagement;
 
 import java.io.IOException;
 

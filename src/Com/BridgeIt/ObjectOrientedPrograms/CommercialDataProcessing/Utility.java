@@ -1,4 +1,4 @@
-package CommercialDataProcessing;
+package Com.BridgeIt.ObjectOrientedPrograms.CommercialDataProcessing;
 
 import java.io.FileReader;
 import java.util.Scanner;

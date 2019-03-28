@@ -1,7 +1,7 @@
 /**
  * Linked list for Coomercial data proccessing.
  */
-package CommercialDataProcessing;
+package Com.BridgeIt.ObjectOrientedPrograms.CommercialDataProcessing;
 
 public class LinkedList 
 {

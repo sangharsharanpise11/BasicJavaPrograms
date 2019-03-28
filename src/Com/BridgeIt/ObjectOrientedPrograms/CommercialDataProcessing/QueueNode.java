@@ -1,4 +1,4 @@
-package CommercialDataProcessing;
+package Com.BridgeIt.ObjectOrientedPrograms.CommercialDataProcessing;
 
 public class QueueNode 
 {

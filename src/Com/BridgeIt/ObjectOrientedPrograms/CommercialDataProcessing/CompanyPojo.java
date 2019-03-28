@@ -1,7 +1,7 @@
 /**
  * this is the company pojo class with setter and getter methods. 
  */
-package CommercialDataProcessing;
+package Com.BridgeIt.ObjectOrientedPrograms.CommercialDataProcessing;
 
 public class CompanyPojo
 {

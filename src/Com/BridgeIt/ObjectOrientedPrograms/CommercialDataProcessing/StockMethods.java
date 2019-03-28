@@ -4,7 +4,7 @@
  * Purpose :Further maintain DateTime of the transaction in a Queue implemented using Linked List to indicate when 
  * the transactions were done.
 */
-package CommercialDataProcessing;
+package Com.BridgeIt.ObjectOrientedPrograms.CommercialDataProcessing;
 
 import java.io.File;
 import java.io.FileNotFoundException;

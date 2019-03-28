@@ -1,4 +1,4 @@
-package AddressBook;
+package Com.BridgeIt.ObjectOrientedPrograms.AddressBook;
 
 public class Address 
 {
@@ -53,5 +53,5 @@ public String toString()
 	return "Address [StreetName=" + StreetName + ", BuildingName=" + BuildingName + ", RoomNo=" + RoomNo + ", state="
 			+ state + ", city=" + city + "]";
 }
- 
+
 }

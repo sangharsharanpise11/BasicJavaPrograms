@@ -1,7 +1,7 @@
 /**
 * this method is used for Commercial data processing with stack,Queue
 */
-package CommercialDataProcessing;
+package Com.BridgeIt.ObjectOrientedPrograms.CommercialDataProcessing;
 
 import java.io.IOException;
 import java.util.Scanner;

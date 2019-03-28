@@ -7,7 +7,7 @@
  *  well as DateTime of the transaction. When buy or sell is initiated StockAccount checks if CompanyShares are available 
  *  and accordingly update or create an Object. 
  */
-package CommercialDataProcessing;
+package Com.BridgeIt.ObjectOrientedPrograms.CommercialDataProcessing;
 
 import java.util.Scanner;
 

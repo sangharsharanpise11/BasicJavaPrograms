@@ -3,7 +3,7 @@
  * Date :23/03/2019.
  * Purpose :
  */
-package CliniqueManagement;
+package Com.BridgeIt.ObjectOrientedPrograms.CliniqueManagement;
 import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;

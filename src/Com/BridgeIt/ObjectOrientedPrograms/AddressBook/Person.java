@@ -1,4 +1,4 @@
-package AddressBook;
+package Com.BridgeIt.ObjectOrientedPrograms.AddressBook;
 
 public class Person 
 {

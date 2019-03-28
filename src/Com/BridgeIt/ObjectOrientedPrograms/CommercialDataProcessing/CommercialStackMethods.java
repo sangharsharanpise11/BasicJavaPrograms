@@ -1,7 +1,7 @@
 /**
  * this class for com,mercial Stack methods.
  */
-package CommercialDataProcessing;
+package Com.BridgeIt.ObjectOrientedPrograms.CommercialDataProcessing;
 
 import java.io.File;
 import java.io.FileReader;

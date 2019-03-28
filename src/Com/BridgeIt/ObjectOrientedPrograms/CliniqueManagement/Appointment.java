@@ -3,7 +3,7 @@
  * Date :23/03/2019.
  * Purpose :
  */
-package CliniqueManagement;
+package Com.BridgeIt.ObjectOrientedPrograms.CliniqueManagement;
 public class Appointment 
 {
     

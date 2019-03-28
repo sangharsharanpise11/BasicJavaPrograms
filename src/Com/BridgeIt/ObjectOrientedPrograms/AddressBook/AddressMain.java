@@ -1,4 +1,4 @@
-package AddressBook;
+package Com.BridgeIt.ObjectOrientedPrograms.AddressBook;
 
 import java.io.BufferedWriter;
 import java.io.File;

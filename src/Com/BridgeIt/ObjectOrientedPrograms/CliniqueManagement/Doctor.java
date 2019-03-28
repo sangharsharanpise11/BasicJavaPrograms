@@ -1,5 +1,5 @@
 
-package CliniqueManagement;
+package Com.BridgeIt.ObjectOrientedPrograms.CliniqueManagement;
 public class Doctor 
 {
 private String name;
