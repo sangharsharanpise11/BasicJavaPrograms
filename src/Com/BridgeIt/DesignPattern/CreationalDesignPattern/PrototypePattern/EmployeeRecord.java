@@ -6,7 +6,8 @@ public class EmployeeRecord implements Prototype{
 	private double salary;  
 	private String address;  
 	      
-	public EmployeeRecord(){  
+	public EmployeeRecord()
+	{  
 		System.out.println("   Employee Records of Oracle Corporation ");  
 		System.out.println("---------------------------------------------");  
 		System.out.println("Eid"+"\t"+"Ename"+"\t"+"Edesignation"+"\t"+"Esalary"+"\t\t"+"Eaddress");  
